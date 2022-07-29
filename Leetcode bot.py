@@ -1,7 +1,7 @@
 import discord
 import random
 import time
-TOKEN = "MTAwMjY4MDQ3OTYzMzM5MTcyOA.GEjO5E.Fbi7tosxZaWheD-qbGJC2b028M0E3F7ZunjqQw"
+TOKEN = "SUPER SECRET"
 client = discord.Client()
 last_time = -1
 @client.event
